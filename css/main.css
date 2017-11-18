@@ -1,0 +1,19 @@
+#header {
+  color: #4D926F;
+}
+h2 {
+  color: #4D926F;
+}
+h3 {
+  color: #4D926F;
+}
+#header {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+#footer {
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+}
